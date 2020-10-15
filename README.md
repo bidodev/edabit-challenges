@@ -1,4 +1,4 @@
 # edabit-challenges
 
 
-# Random Algorithms challenges from Edabit
+## Random Algorithms challenges from Edabit
